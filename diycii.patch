@@ -1,0 +1,13 @@
+Index: app/src/main/java/com/wangshen/shenyuan/base/BaseActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/wangshen/shenyuan/base/BaseActivity.java	(revision c0bd5cf1595e33412f79d483298751da0382c9a4)
++++ app/src/main/java/com/wangshen/shenyuan/base/BaseActivity.java	(revision )
+@@ -19,4 +19,5 @@
+     protected void initData(){}
+     protected void initLinstner(){}
+     protected void initView(){}
++
+ }
