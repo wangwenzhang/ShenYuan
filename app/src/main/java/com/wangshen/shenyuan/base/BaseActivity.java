@@ -19,6 +19,7 @@ public  class BaseActivity extends Activity {
         initLinstner();
         initView();
     }
+
     public void initData(){
         Log.i("baseActivity","inidata");
     }
